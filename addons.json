@@ -1,26 +1,41 @@
 {
   "Add_To_Any": {
-    "file": "add-to-any\/add-to-any.php",
-    "class": "add_to_any\\Add_To_Any"
+    "class": "cookiebot_addons_framework\\controller\\addons\\add_to_any\\Add_To_Any"
   },
   "Ga_Google_Analytics": {
-    "file": "ga-google-analytics\/ga-google-analytics.php",
-    "class": "ga_google_analytics\\Ga_Google_Analytics"
+    "class": "cookiebot_addons_framework\\controller\\addons\\ga_google_analytics\\Ga_Google_Analytics"
   },
   "Ga_Analyticator": {
-    "file": "google-analyticator\/google-analyticator.php",
-    "class": "google_analyticator\\Google_Analyticator"
+    "class": "cookiebot_addons_framework\\controller\\addons\\google_analyticator\\Google_Analyticator"
+  },
+  "Wd_Google_Analytics": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\wd_google_analytics\\Wd_Google_Analytics"
   },
   "Jetpack": {
-    "file": "jetpack\/jetpack.php",
-    "class": "jetpack\\Jetpack"
+    "class": "cookiebot_addons_framework\\controller\\addons\\jetpack\\Jetpack"
   },
   "Hubspot_Tracking_Code": {
-    "file": "hubspot-tracking-code\/hubspot-tracking-code.php",
-    "class": "hubspot_tracking_code\\Hubspot_Tracking_Code"
+    "class": "cookiebot_addons_framework\\controller\\addons\\hubspot_tracking_code\\Hubspot_Tracking_Code"
   },
   "Custom_Facebook_Feed": {
-    "file": "custom-facebook-feed\/custom-facebook-feed.php",
-    "class": "custom_facebook_feed\\Custom_Facebook_Feed"
+    "class": "cookiebot_addons_framework\\controller\\addons\\custom_facebook_feed\\Custom_Facebook_Feed"
+  },
+  "Embed_Autocorrect": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\embed_autocorrect\\Embed_Autocorrect"
+  },
+  "Instagram_Feed": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\instagram_feed\\Instagram_Feed"
+  },
+  "WP_Piwik": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\wp_piwik\\Wp_Piwik"
+  },
+  "Pixel_Caffeine": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\pixel_caffeine\\Pixel_Caffeine"
+  },
+  "Wp_Analytify": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\wp_analytify\\Wp_Analytify"
+  },
+  "Google_Analytics_Plus": {
+    "class": "cookiebot_addons_framework\\controller\\addons\\google_analytics_plus\\Google_Analytics_Plus"
   }
 }
